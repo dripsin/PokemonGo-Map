@@ -106,6 +106,8 @@ The output should look something like:
   v4.7.0
   $ npm --version
   3.8.9
+  
+  Note: Even though you update node. Npm might not update or updates more frequently. To update npm on OSX you will have to type "sudo npm install npm -g" into termial.
 
 Once node/npm is installed, you can install the node dependencies and build the front-end assets:
 
